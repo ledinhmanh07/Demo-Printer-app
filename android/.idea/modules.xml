@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="demoPrinter/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoPrinter.iml" filepath="$PROJECT_DIR$/.idea/modules/demoPrinter.iml" group="demoPrinter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1535400269/react-native-bluetooth-escpos-printer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1535400269/react-native-bluetooth-escpos-printer.iml" group="demoPrinter/react-native-bluetooth-escpos-printer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2006926745/react-native-thermal-receipt-printer.iml" filepath="$PROJECT_DIR$/.idea/modules/-2006926745/react-native-thermal-receipt-printer.iml" group="demoPrinter/react-native-thermal-receipt-printer" />
+    </modules>
+  </component>
+</project>

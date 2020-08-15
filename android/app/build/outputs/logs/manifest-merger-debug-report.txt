@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-community_masked-view] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-gesture-handler] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/460c2a156f5a081533cd1c1a0b72a81c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/78a73a3a785b115b8d917d02d4040c79/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/0c21f5c025376e2548ac6ea21daea047/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/74a03cd66d8df5a893714b9f80f427e8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/3f5b92029fbaa84e97911306008d5e3d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/fdfa256583edcdf9cccb1df0c9fa9638/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/ee5d7e1638fbe624ad55f2ad3f52b101/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/fec9235174af16cbca58c9a0461f4c45/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/85261909f061b765454217b653e074de/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b8d1a44e6b2528a735b6eab1545a0086/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cdaff6fea42a71d29220e3aff20dee37/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/413fb34a6b635916afd0035f1dde8d0a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cd6343f5273aad8d9bd7c5fd61935590/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c109c399eb62097739b211828f076778/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/055650d34b2d9876c26e8ec51200ca38/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a4b6ab91c65b38ef567fb9e40ee3f91b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/f1afe3d092278a738e41e0007a3c8330/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/07a6232c434b8b245c73d3e080a71c37/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a35b9778fe5b0c2c526dba590b35e503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b4c9c5c4717aedf4ae29dbabc15cbf6b/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/2c35dfdb77bba9856b5437ff79e784ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7a38a66d2fee1caba714939348380ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/8af26406e33069a4b3b30a65e9c975e0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/2e5fa019fa58e6c15f826705584d91d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/3da0af6a3e2ec67e347be58b8ff93339/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cbc7ec7262f88315867b4a0186f10cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c055845857cbdfb7318c7414c709fa17/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/57f66f771712b19ecdfea8983d5e5a3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cb363da83649ffb8ad91850f010b0fab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/ca69cc7f6cd002c7180a262f3b11f6ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/88949b3948e93f9b53a6a58a03a9d2ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a11d102dedd7ca69cdebe04561c29cbc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b912a745957f5049c1ab4bd9433f38d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7b3e6e330ec6b79afc0094f29017286d/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/9e3d22131e37434ea36488e8b50de560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/e6b1d40b297eb290b905f11bcdfea394/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/21729cf4e9d308eb90f8895313f2f48f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/8f309ef9c51417e918de36f5b6640377/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a8ef8dd3a870596d80245fbf270022d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/4a52507e982689a88eeae3e6da78d358/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b10a61f4bad2c5ad87713d8429f0dd4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/14a60f65cfb29b26bdce3e491d93aa6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/f1995e380a9226fc5c25c9cf9f1b2c61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/1013088af85991ca1cfb53d4123e554e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c8b1e08ce0ff7ff10733a30557754a87/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a078bfb4228f11fd91ba0cd08f1a157b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/d2539e049b426081d22c64c1ccb40cde/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/260a6763cd214ffcb1f1b67a941ba0b4/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/460c2a156f5a081533cd1c1a0b72a81c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/460c2a156f5a081533cd1c1a0b72a81c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/0c21f5c025376e2548ac6ea21daea047/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/0c21f5c025376e2548ac6ea21daea047/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/413fb34a6b635916afd0035f1dde8d0a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/413fb34a6b635916afd0035f1dde8d0a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7b3e6e330ec6b79afc0094f29017286d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7b3e6e330ec6b79afc0094f29017286d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/e6b1d40b297eb290b905f11bcdfea394/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/e6b1d40b297eb290b905f11bcdfea394/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7b3e6e330ec6b79afc0094f29017286d/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.demoprinter.MainActivity
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_masked-view] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/460c2a156f5a081533cd1c1a0b72a81c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/460c2a156f5a081533cd1c1a0b72a81c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/78a73a3a785b115b8d917d02d4040c79/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/78a73a3a785b115b8d917d02d4040c79/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/0c21f5c025376e2548ac6ea21daea047/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/0c21f5c025376e2548ac6ea21daea047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/74a03cd66d8df5a893714b9f80f427e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/74a03cd66d8df5a893714b9f80f427e8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/3f5b92029fbaa84e97911306008d5e3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/3f5b92029fbaa84e97911306008d5e3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/fdfa256583edcdf9cccb1df0c9fa9638/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/fdfa256583edcdf9cccb1df0c9fa9638/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/ee5d7e1638fbe624ad55f2ad3f52b101/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/ee5d7e1638fbe624ad55f2ad3f52b101/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/fec9235174af16cbca58c9a0461f4c45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/fec9235174af16cbca58c9a0461f4c45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/85261909f061b765454217b653e074de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/85261909f061b765454217b653e074de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b8d1a44e6b2528a735b6eab1545a0086/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b8d1a44e6b2528a735b6eab1545a0086/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cdaff6fea42a71d29220e3aff20dee37/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cdaff6fea42a71d29220e3aff20dee37/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/413fb34a6b635916afd0035f1dde8d0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/413fb34a6b635916afd0035f1dde8d0a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cd6343f5273aad8d9bd7c5fd61935590/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cd6343f5273aad8d9bd7c5fd61935590/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c109c399eb62097739b211828f076778/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c109c399eb62097739b211828f076778/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/055650d34b2d9876c26e8ec51200ca38/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/055650d34b2d9876c26e8ec51200ca38/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a4b6ab91c65b38ef567fb9e40ee3f91b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a4b6ab91c65b38ef567fb9e40ee3f91b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/f1afe3d092278a738e41e0007a3c8330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/f1afe3d092278a738e41e0007a3c8330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/07a6232c434b8b245c73d3e080a71c37/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/07a6232c434b8b245c73d3e080a71c37/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a35b9778fe5b0c2c526dba590b35e503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a35b9778fe5b0c2c526dba590b35e503/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b4c9c5c4717aedf4ae29dbabc15cbf6b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b4c9c5c4717aedf4ae29dbabc15cbf6b/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/2c35dfdb77bba9856b5437ff79e784ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/2c35dfdb77bba9856b5437ff79e784ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7a38a66d2fee1caba714939348380ccd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7a38a66d2fee1caba714939348380ccd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/8af26406e33069a4b3b30a65e9c975e0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/8af26406e33069a4b3b30a65e9c975e0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/2e5fa019fa58e6c15f826705584d91d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/2e5fa019fa58e6c15f826705584d91d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/3da0af6a3e2ec67e347be58b8ff93339/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/3da0af6a3e2ec67e347be58b8ff93339/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cbc7ec7262f88315867b4a0186f10cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cbc7ec7262f88315867b4a0186f10cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c055845857cbdfb7318c7414c709fa17/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c055845857cbdfb7318c7414c709fa17/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/57f66f771712b19ecdfea8983d5e5a3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/57f66f771712b19ecdfea8983d5e5a3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cb363da83649ffb8ad91850f010b0fab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/cb363da83649ffb8ad91850f010b0fab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/ca69cc7f6cd002c7180a262f3b11f6ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/ca69cc7f6cd002c7180a262f3b11f6ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/88949b3948e93f9b53a6a58a03a9d2ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/88949b3948e93f9b53a6a58a03a9d2ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a11d102dedd7ca69cdebe04561c29cbc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a11d102dedd7ca69cdebe04561c29cbc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b912a745957f5049c1ab4bd9433f38d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b912a745957f5049c1ab4bd9433f38d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7b3e6e330ec6b79afc0094f29017286d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/7b3e6e330ec6b79afc0094f29017286d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/9e3d22131e37434ea36488e8b50de560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/9e3d22131e37434ea36488e8b50de560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/e6b1d40b297eb290b905f11bcdfea394/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/e6b1d40b297eb290b905f11bcdfea394/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/21729cf4e9d308eb90f8895313f2f48f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/21729cf4e9d308eb90f8895313f2f48f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/8f309ef9c51417e918de36f5b6640377/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/8f309ef9c51417e918de36f5b6640377/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a8ef8dd3a870596d80245fbf270022d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a8ef8dd3a870596d80245fbf270022d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/4a52507e982689a88eeae3e6da78d358/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/4a52507e982689a88eeae3e6da78d358/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b10a61f4bad2c5ad87713d8429f0dd4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/b10a61f4bad2c5ad87713d8429f0dd4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/14a60f65cfb29b26bdce3e491d93aa6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/14a60f65cfb29b26bdce3e491d93aa6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/f1995e380a9226fc5c25c9cf9f1b2c61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/f1995e380a9226fc5c25c9cf9f1b2c61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/1013088af85991ca1cfb53d4123e554e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/1013088af85991ca1cfb53d4123e554e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c8b1e08ce0ff7ff10733a30557754a87/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/c8b1e08ce0ff7ff10733a30557754a87/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a078bfb4228f11fd91ba0cd08f1a157b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/a078bfb4228f11fd91ba0cd08f1a157b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/d2539e049b426081d22c64c1ccb40cde/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/d2539e049b426081d22c64c1ccb40cde/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/260a6763cd214ffcb1f1b67a941ba0b4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ledinhmanh/.gradle/caches/transforms-2/files-2.1/260a6763cd214ffcb1f1b67a941ba0b4/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-74
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-76
+uses-permission#android.hardware.usb.UsbAccessory
+ADDED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [:react-native-thermal-receipt-printer] /Users/ledinhmanh/Desktop/Demo Project/demoPrinter/node_modules/react-native-thermal-receipt-printer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-73

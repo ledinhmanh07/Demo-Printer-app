@@ -46,7 +46,7 @@ export default class EscPos extends Component {
                 codepage: 0,
                 widthtimes: 0,
                 heigthtimes: 0,
-                fonttype: 0,
+                fonttype: 7,
               });
             }}
             title="Text type 0"
@@ -59,8 +59,8 @@ export default class EscPos extends Component {
                 encoding: 'GBK',
                 codepage: 0,
                 widthtimes: 0,
-                heigthtimes: 0,
-                fonttype: 1,
+                heigthtimes: 1,
+                fonttype: 0,
               });
             }}
             title="Text type 1"
@@ -114,15 +114,17 @@ export default class EscPos extends Component {
         <View style={styles.btn}>
           <Button
             onPress={async () => {
-              await BluetoothEscposPrinter.printText('Le Dinh Manh\r\n', {
-                encoding: 'GBK',
-                codepage: 0,
-                widthtimes: 0,
-                heigthtimes: 0,
-                fonttype: 5,
-              });
+              await BluetoothEscposPrinter.printBarCode(
+                '1230123456789',
+                BluetoothEscposPrinter.BARCODETYPE.JAN13,
+                3,
+                120,
+                0,
+                2,
+              );
+              await BluetoothEscposPrinter.printText('\r\n', {});
             }}
-            title="Text type 5"
+            title="In Barcode"
           />
         </View>
         <View style={styles.btn}>
@@ -138,25 +140,25 @@ export default class EscPos extends Component {
                   BluetoothEscposPrinter.ALIGN.CENTER,
                 );
                 await BluetoothEscposPrinter.setBlob(0);
-                await BluetoothEscposPrinter.printText('UNICOFFEE\r\n', {
+                await BluetoothEscposPrinter.printText('UNI COFFEE\r\n', {
                   encoding: 'GBK',
                   codepage: 0,
                   widthtimes: 2,
                   heigthtimes: 2,
-                  fonttype: 0,
+                  fonttype: 1,
                 });
                 await BluetoothEscposPrinter.setBlob(0);
                 await BluetoothEscposPrinter.printText('HOA DON\r\n', {
                   encoding: 'GBK',
                   codepage: 0,
                   widthtimes: 1,
-                  heigthtimes: 1,
-                  fonttype: 0,
+                  heigthtimes: 0,
+                  fonttype: 1,
                 });
-                await BluetoothEscposPrinter.printText('\r\n', {});
+                // await BluetoothEscposPrinter.printText('\r\n', {});
                 await BluetoothEscposPrinter.printBarCode(
-                  '0123456789',
-                  BluetoothEscposPrinter.BARCODETYPE.EAN13,
+                  '1230123456789',
+                  BluetoothEscposPrinter.BARCODETYPE.JAN13,
                   3,
                   120,
                   0,
@@ -167,7 +169,7 @@ export default class EscPos extends Component {
                   BluetoothEscposPrinter.ALIGN.LEFT,
                 );
                 await BluetoothEscposPrinter.printText(
-                  'Khạch hang: LE DINH MANH\r\n',
+                  'Khach hang: LE DINH MANH\r\n',
                   {
                     encoding: 'GBK',
                     codepage: 0,
@@ -202,7 +204,7 @@ export default class EscPos extends Component {
                   '--------------------------------\r\n',
                   {},
                 );
-                let columnWidths = [4, 4, 4, 5];
+                let columnWidths = [8, 8, 8, 8];
                 await BluetoothEscposPrinter.printColumn(
                   columnWidths,
                   [
@@ -264,13 +266,12 @@ export default class EscPos extends Component {
                     fonttype: 0,
                   },
                 );
-                await BluetoothEscposPrinter.printText('\r\n', {});
                 await BluetoothEscposPrinter.printText(
                   '--------------------------------\r\n',
                   {},
                 );
                 await BluetoothEscposPrinter.printColumn(
-                  [1, 2],
+                  [12, 20],
                   [
                     BluetoothEscposPrinter.ALIGN.LEFT,
                     BluetoothEscposPrinter.ALIGN.RIGHT,
@@ -310,7 +311,7 @@ export default class EscPos extends Component {
                     fonttype: 0,
                   },
                 );
-                await BluetoothEscposPrinter.printText('r\n', {});
+                // await BluetoothEscposPrinter.printText('\r\n', {});
                 await BluetoothEscposPrinter.printerAlign(
                   BluetoothEscposPrinter.ALIGN.CENTER,
                 );
@@ -319,9 +320,9 @@ export default class EscPos extends Component {
                   140,
                   BluetoothEscposPrinter.ERROR_CORRECTION.L,
                 );
-                await BluetoothEscposPrinter.printText('\r\n\r\n', {});
+                await BluetoothEscposPrinter.printText('\r\n', {});
                 await BluetoothEscposPrinter.printText(
-                  'Cam on va hen gap lai!\r\n\r\n\r\n',
+                  'Cam on va hen gap lai!\r\n',
                   {
                     encoding: 'GBK',
                     codepage: 0,
@@ -333,7 +334,7 @@ export default class EscPos extends Component {
                 await BluetoothEscposPrinter.printerAlign(
                   BluetoothEscposPrinter.ALIGN.LEFT,
                 );
-                await BluetoothEscposPrinter.printText('\r\n\r\n\r\n', {});
+                await BluetoothEscposPrinter.printText('\r\n\r\n', {});
               } catch (e) {
                 alert(e.message || 'ERROR');
               }
